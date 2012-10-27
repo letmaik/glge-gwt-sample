@@ -1,8 +1,0 @@
-<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
-<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
-	xmlns:g="urn:import:com.google.gwt.user.client.ui"
-	xmlns:glge="urn:import:com.github.neothemachine.glgegwt.client">
-	<g:HTMLPanel>
-		<glge:GLGECanvas ui:field="glge" coordinateSpaceHeight="400" coordinateSpaceWidth="400" />
-	</g:HTMLPanel>
-</ui:UiBinder> 
